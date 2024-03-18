@@ -1,0 +1,6 @@
+my project
+This is a brief description of my project
+#installation
+1)clone the repository
+2)instal sub modules
+/usr/bin/bash: line 1: wq: command not found
